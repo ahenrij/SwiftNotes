@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SwiftNotes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_recherche">Rechercher</string>
+    <string name="action_modifier_categ">Modifier</string>
+    <string name="action_supprimer_categ">Supprimer</string>
+    <string name="action_supprimer_note">Supprimer</string>
+    <string name="title_activity_note">Notes</string>
+    <string name="hint_titre_note">Titre</string>
+    <string name="hint_category_name">Nom catégorie</string>
+    <string name="title_recycler_color">Couleur</string>
+    <string name="error_category_name">Nom catégorie invalide</string>
+    <string name="error_category_existing">Catégorie existante</string>
+    <string name="title_activity_details_note">DetailsNoteActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="alarme_text">Définir une alarme</string>
+    <string name="modifier_alarme">Modifier</string>
+    <string name="definir_alarme">Definir l\'alarme</string>
+    <string name="annuler_alarme">Annuler l\'alarme</string>
+    <string name="descrip_undefined">Non définie</string>
+    <string name="speech_prompt">Parlez maintenant !</string>
+    <string name="speech_not_supported">Désolé !  Votre appareil ne supporte pas cette fonctionnalité</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
